@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/singerpower.github.io.git/static/css/main.bc4ac153.css",
-    "main.js": "/singerpower.github.io.git/static/js/main.0704dc92.js",
-    "static/js/787.76a0c5bf.chunk.js": "/singerpower.github.io.git/static/js/787.76a0c5bf.chunk.js",
-    "static/media/on-the-wind.jpg": "/singerpower.github.io.git/static/media/on-the-wind.62edf0bc6433f668da97.jpg",
-    "index.html": "/singerpower.github.io.git/index.html",
-    "main.bc4ac153.css.map": "/singerpower.github.io.git/static/css/main.bc4ac153.css.map",
-    "main.0704dc92.js.map": "/singerpower.github.io.git/static/js/main.0704dc92.js.map",
-    "787.76a0c5bf.chunk.js.map": "/singerpower.github.io.git/static/js/787.76a0c5bf.chunk.js.map"
+    "main.css": "/static/css/main.bc4ac153.css",
+    "main.js": "/static/js/main.7a2b077e.js",
+    "static/js/787.76a0c5bf.chunk.js": "/static/js/787.76a0c5bf.chunk.js",
+    "static/media/on-the-wind.jpg": "/static/media/on-the-wind.62edf0bc6433f668da97.jpg",
+    "index.html": "/index.html",
+    "main.bc4ac153.css.map": "/static/css/main.bc4ac153.css.map",
+    "main.7a2b077e.js.map": "/static/js/main.7a2b077e.js.map",
+    "787.76a0c5bf.chunk.js.map": "/static/js/787.76a0c5bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc4ac153.css",
-    "static/js/main.0704dc92.js"
+    "static/js/main.7a2b077e.js"
   ]
 }
